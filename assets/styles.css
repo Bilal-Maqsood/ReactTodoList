@@ -1,0 +1,21 @@
+body{
+  background-color: #eee;
+}
+table, .add-todo, .edit-todo{
+  margin: 10px;
+  padding: 10px;
+  border: 0.1em solid gainsboro;
+  background-color: #fff;
+}
+
+td{
+  padding-left: 5px;
+}
+
+.title{
+  color: cadetblue;
+}
+
+.add-todo, .edit-todo{
+  max-width: 250px;
+}

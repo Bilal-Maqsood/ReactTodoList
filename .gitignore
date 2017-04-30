@@ -1,0 +1,4 @@
+.idea
+dist/
+*.lock
+node_modules/
